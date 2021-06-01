@@ -12,10 +12,10 @@ _Este proyecto fue creado con el framework angular desarrollado por google_
 ## Capturas
 
 - Lista de inicio
-<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/inicio.jpg" height="600" width="300">
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/cap-1.png" height="600" width="300">
 
 - Paginación
-<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/resultado.jpg" height="600" width="300">
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/cap-2.png" height="600" width="300">
 
 - Responsive
-<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/nombre1.jpg" height="600" width="300">
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/cap-3.png" height="600" width="300">
