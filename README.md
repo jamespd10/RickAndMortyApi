@@ -1,27 +1,21 @@
-# Rickmortyapi
+# Rick Morty API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
-## Development server
+## Información
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_Este proyecto fue creado con el framework angular desarrollado por google_
 
-## Code scaffolding
+- [Angular](https://angular.io/)
+- [RickAndMortyApi](https://rickandmortyapi.com/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Capturas
 
-## Build
+- Lista de inicio
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/inicio.jpg" height="600" width="300">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Paginación
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/resultado.jpg" height="600" width="300">
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Responsive
+<img src="https://github.com/jamespd10/RickAndMortyApi/main/src/assets/nombre1.jpg" height="600" width="300">
